@@ -12,3 +12,10 @@
 
 # PUT
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/06d34684-51c6-4040-b833-8e410aac0d6a" />
+
+# PATCH
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ba33409e-6d30-4570-beb0-4dbaea85f881" />
+
+# DELETE
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/73c8dcc0-9cde-4ee6-bb7f-bc1cea8782f4" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/33c3ce65-6777-47e7-82eb-f4952355b0f9" />
